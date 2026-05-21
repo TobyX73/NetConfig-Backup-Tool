@@ -141,8 +141,3 @@ Para que el sistema pueda conectarse a los routers, cada dispositivo debe tener:
 - ✅ API REST para gestión de backups
 - ✅ Interfaz web para visualización e historial
 
----
-
-## Autor
-
-**Tobías** — [@TobyX73](https://github.com/TobyX73)
